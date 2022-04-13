@@ -173,7 +173,7 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: var(--color-first);
+    /* background: var(--color-first); */
     margin: 25px 0;
     box-shadow: 0 3px 16px rgba(0, 0, 0, 0.3);
     padding: 40px 20px;
