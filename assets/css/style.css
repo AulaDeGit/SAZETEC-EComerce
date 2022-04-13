@@ -6,7 +6,6 @@
     padding: 0;
     box-sizing: border-box;
     font-size: 15px;
-    background-color: var(--color-first);
 }
 
 body {
@@ -173,8 +172,8 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* background: var(--color-first); */
     margin: 25px 0;
+    background: var(--color-first);
     box-shadow: 0 3px 16px rgba(0, 0, 0, 0.3);
     padding: 40px 20px;
     border-radius: 7px;
