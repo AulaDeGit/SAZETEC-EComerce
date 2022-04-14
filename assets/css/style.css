@@ -218,6 +218,7 @@ a {
 .tour-list-item h3 {
    font-size: 3vmin;
    margin: 40px auto 20px;
+   text-align: center;
 }
 
 .tour-list-item p {
