@@ -14,6 +14,9 @@ E Commerce voltado a venda de portas e janelas
 ## Screenshots
 
 ![App Screenshot](./assets//img/ImgSite.png)
+<br/>
+
+![App Screenshot](./assets//img/ImgSite2.png)
 
 ## Documentação de cores
 
